@@ -1,2 +1,2 @@
-# CSCI5700
-Repository holding the code for my group software engineering project for CSCI5700
+# VR Mechatronics
+The purpose of this project was to work on developing a VR game that can be used by a research group to measure the interaction of Autistic and Neurotypical people. This was done by developing an interactable arduino that could be wired up to 2 LEDs that would blink when wired correctly. There was also a drag-and-drop arduino code section that the leader would have to explain to the follower how the code was suppose to look and the follower would have to drag the code blocks to the correct location.
