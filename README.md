@@ -16,7 +16,7 @@ C# for modifying the codebase
 ### Arduino
 
 ### Drag-and-Drop code
-
+To interact with the drag-and-drop code you will first need to click on the dropdown menu that says, “Select Code”. This is where all the code blocks are stored. From here you will be able to click on the code blocks and drag it where it belongs. There are two different dropdowns and each one will only be draggable to its grid block. After you drag the block, it will no longer be in the dropdown menu until you close and reopen it to refresh but you can still drag other blocks before you do this. Once all the code you want is placed on the screen the user will then press the “Validate” button to check that the code is correct. The final interaction of this button is still a work in progress but for now it prints out to the debug console if each line is valid or invalid.  
 
 ## Future development  
 Finishing the validation of the Arduino wiring.  
