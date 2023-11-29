@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - highlight
+  - Lego_Piece
+  - P003
+  - P001
+  - P004
+  - P002
+  - P005
+  - P006
+  - P007
+  - P008
+  - P009
+  - P010
+  - P011
+  - P012
+  - P013
+  - P014
+  - P015
+  - P016
+  - P017
+  - P018
+  - P020
+  - P021
+  - P019
+  - P022
+  - P023
+  - P024
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
